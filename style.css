@@ -656,6 +656,9 @@ nav{
     bottom: 0;
     left: 0;
 }
+.footer p i{
+    color: #f26c18;
+}
 
 /* ------------------------media query for home page---------------------- */
 @media (max-width: 900px){
